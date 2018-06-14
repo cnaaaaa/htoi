@@ -1,0 +1,534 @@
+https://blog.csdn.net/hguisu/article/details/38638183 | 使用 libevent 和 libev 提高网络应用性能——I/O模型演进变化史 - CSDN博客
+https://blog.csdn.net/hguisu/article/details/7453390 | socket阻塞与非阻塞，同步与异步、I/O模型 - CSDN博客
+https://blog.csdn.net/Wangdada111/article/details/54236732 | 一看就懂的数据库范式介绍（1NF—5NF) - CSDN博客
+https://blog.csdn.net/younger_china/article/details/16829687 | [内存管理]linux X86_64处理器的内存布局图 - CSDN博客
+https://blog.csdn.net/lyh__521/article/details/50137057 | 64位系统下进程的内存布局 - CSDN博客
+http://adam8157.info/blog/2012/07/linux-x86-64-vm/ | Linux在x86-64下的虚拟内存布局
+https://my.oschina.net/u/2475751/blog/527610 | 了解linux 64位地址空间内存布局 - 认真即可的个人空间 - 开源中国
+http://www.voidcn.com/article/p-eeelaapz-boh.html | 了解linux 64位地址空间内存布局 - 程序园
+https://blog.csdn.net/yusiguyuan/article/details/45155035 | Linux进程地址空间 && 进程内存布局 - CSDN博客
+https://blog.csdn.net/zhouwei1221q/article/details/47955109 | linux系统进程的内存布局 - CSDN博客
+https://blog.csdn.net/mumumuwudi/article/details/47141291 | LINUX程序(进程)在内存中的布局 - CSDN博客
+https://www.cnblogs.com/charlesblc/p/6415916.html | Linux进程的内存布局 - blcblc - 博客园
+http://linuxtools-rst.readthedocs.io/zh_CN/latest/tool/free.html | 9. free 查询可用内存 — Linux Tools Quick Tutorial
+http://www.cnblogs.com/charlesblc/p/6242479.html | epoll的内部实现 & 百万级别句柄监听 & lt和et模式非常好的解释 - blcblc - 博客园
+https://www.ibm.com/developerworks/cn/linux/kernel/l-chain/index.html | 深入分析 Linux 内核链表
+https://blog.csdn.net/zhanglei4214/article/details/6767288 | linux内核hlist分析 - CSDN博客
+https://blog.csdn.net/vonzhoufz/article/details/36043223 | Linux内核hlist数据结构分析 - CSDN博客
+http://www.cnblogs.com/westfly/archive/2011/03/08/1977201.html | Linux 中的链表list 和 hlist - westfly - 博客园
+
+https://12factor.net/ | The Twelve-Factor App
+http://marcio.io/2015/07/handling-1-million-requests-per-minute-with-golang/ | Handling 1 Million Requests per Minute with Go · marcio.io
+https://blog.csdn.net/huijunma2010/article/details/51209178 | Socket 同步和异步模式 - CSDN博客
+https://blogs.msdn.microsoft.com/csliu/2009/08/27/io-concept-blockingnon-blocking-vs-syncasync/ | I/O Concept – Blocking/Non-Blocking VS Sync/Async – Scalability Notes
+https://stackoverflow.com/questions/2625493/asynchronous-vs-non-blocking?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa | asynchronous vs non-blocking - Stack Overflow
+https://aerotwist.com/blog/the-cost-of-frameworks/ | Aerotwist - The Cost of Frameworks
+http://tleyden.github.io/blog/2013/11/23/understanding-chan-chans-in-go/ | Understanding chan chan's in Go - Seven Story Rabbit Hole
+https://www.goin5minutes.com/blog/channel_over_channel/ | Go In 5 Minutes - Short, helpful screencasts for professional Go developers
+
+http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html | 50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs
+https://segmentfault.com/a/1190000002669213 | 周末花了点时间看 LLVM IR, 闲扯几句 - 题叶 - SegmentFault 思否
+https://coolshell.cn/articles/11564.html | TCP 的那些事儿（上） | | 酷 壳 - CoolShell
+
+https://github.com/bingo1991/rtl8821cu_bluetooth_driver | bingo1991/rtl8821cu_bluetooth_driver: Linux_BT_USB_v3.10_20170314_8821CU_BTCOEX_20170223-1111
+https://blog.csdn.net/u013686019/article/details/44944493 | ARM加载Realtek-8188CUS USB无线网卡(一)_驱动编译与加载 - CSDN博客
+https://blog.csdn.net/shanzhizi/article/details/8626419 | Linux内核模块的编译基础知识 - CSDN博客
+https://pzoleeblogen.wordpress.com/2013/08/12/local-network-speed-test-for-android/ | Local network speed test for Android | PZolee's blog
+https://blog.csdn.net/yanbixing123/article/details/52300848 | linux 编译指定库、头文件的路径问题 - CSDN博客
+http://www.cnblogs.com/fly-fish/archive/2012/01/13/2321952.html | 交叉编译时候如何配置连接库的搜索路径 - 夏大王 - 博客园
+https://blog.csdn.net/luotong86/article/details/37737443 | openwrt 编译bluez-4.101 - CSDN博客
+
+http://www.cnblogs.com/kekec/archive/2013/01/27/2822872.html | c++对象内存模型【内存布局】 - 可可西 - 博客园
+https://blog.csdn.net/jiangyi711/article/details/4890889 | c++继承中的内存布局 - CSDN博客
+http://www.cnblogs.com/jiaochen/p/5524335.html | C++ 中类的内存布局 - chen-jiao - 博客园
+https://blog.csdn.net/chengonghao/article/details/51684961 | C++ 无虚函数、无虚基类的继承内存模型 - CSDN博客
+http://www.cnblogs.com/cswuyg/archive/2010/08/20/1804113.html | C++对象内存布局测试总结 - 烛秋 - 博客园
+https://coolshell.cn/articles/12176.html | C++ 对象的内存布局 | | 酷 壳 - CoolShell
+https://www.cnblogs.com/QG-whz/p/4909359.html#_label5_0 | 图说C++对象模型：对象内存布局详解 - melonstreet - 博客园
+https://www.cnblogs.com/QG-whz/p/4676481.html | C++ 合成默认构造函数的真相 - melonstreet - 博客园
+https://blog.csdn.net/yusiguyuan/article/details/42030835 | C++基础知识—关于默认构造函数的一切 - CSDN博客
+http://blog.51cto.com/liulixiaoyao/816128 | C++缺省构造函数的真相-流离and逍遥-51CTO博客
+https://coolshell.cn/articles/11609.html | TCP 的那些事儿（下） | | 酷 壳 - CoolShell
+https://stackoverflow.com/questions/7931537/whats-the-difference-between-asynchronous-non-blocking-event-base-architectu/9489547#9489547 | programming languages - What's the difference between: Asynchronous, Non-Blocking, Event-Base architectures? - Stack Overflow
+http://www.programmr.com/blogs/difference-between-asynchronous-and-non-blocking | The difference between asynchronous and non-blocking | Programmr
+https://www.cnblogs.com/chenyangyao/p/5222696.html | 图解c/c＋＋多级指针与“多维”数组 - 陈洋Cy - 博客园
+https://blog.csdn.net/hll174/article/details/78538036 | c++合成默认构造函数与new关键字带不带括号的分析 - CSDN博客
+https://blog.csdn.net/hll174/article/details/78309212 | c++中比较容易有歧义的语法 - CSDN博客
+https://arga.wordpress.com/2010/04/24/how-to-properly-clone-a-windows-7-system-partition-with-clonezilla/ | How to Properly Clone a Windows 7 System Partition with Clonezilla | RandomScrawls
+https://speakerdeck.com/haseebq/lets-build-a-blockchain-a-mini-cryptocurrency-in-ruby | Let's Build a Blockchain—A mini-cryptocurrency in Ruby // Speaker Deck
+https://medium.com/crypto-currently/lets-build-the-tiniest-blockchain-e70965a248b | Let’s Build the Tiniest Blockchain – Crypto Currently – Medium
+https://www.howtogeek.com/284677/how-to-upgrade-to-a-larger-hard-drive-without-reinstalling-windows/ | How to Upgrade to a Larger Hard Drive Without Reinstalling Windows
+https://www.techradar.com/how-to/computing-components/storage/how-to-move-your-operating-system-to-another-hard-drive-1296831 | How to move your operating system to another hard drive | TechRadar
+https://blog.csdn.net/littlehedgehog/article/details/5442430 | 多重继承和虚继承的内存布局 - CSDN博客
+http://www.cnblogs.com/BeyondAnyTime/archive/2012/06/05/2537451.html | 关于C++中的虚拟继承的一些总结 - VincentCZW - 博客园
+http://www.cnblogs.com/heyonggang/p/3255155.html | C++ 虚拟继承 - 夏雪冬日 - 博客园
+https://blog.csdn.net/jackystudio/article/details/17877219 | 【C++基础之二十一】菱形继承和虚继承 - CSDN博客
+http://www.cnblogs.com/fly1988happy/archive/2012/04/26/2470542.html | new和malloc的区别 - fly1988happy - 博客园
+http://www.cnblogs.com/fly1988happy/archive/2012/04/16/2452021.html | NULL指针、零指针、野指针 - fly1988happy - 博客园
+http://www.cnblogs.com/QG-whz/p/5136883.html | C++ 异常机制分析 - melonstreet - 博客园
+https://www.cnblogs.com/QG-whz/p/5140930.html | 细说new与malloc的10点区别 - melonstreet - 博客园
+https://blog.csdn.net/qianqin_2014/article/details/51320775 | 控制内存分配----重载new和delete & 定位new表达式 - CSDN博客
+https://blog.csdn.net/qianqin_2014/article/details/51321631 | noexcept异常说明及其使用 - CSDN博客
+http://www.cnblogs.com/youxin/p/3313288.html | 判断栈和堆的生长方向 - youxin - 博客园
+
+https://iotbreaks.com/understand-bluetooth-hci-commands-and-events/ | Understand Bluetooth HCI Commands and Events – IoTBreaks
+https://www.google.com/search?newwindow=1&ei=SPIEW5znNoPQvgStmrqgBA&q=warning+__aeabi_dadd+undefined+&oq=warning+__aeabi_dadd+undefined+&gs_l=psy-ab.3...52802.56286.0.56690.9.9.0.0.0.0.102.823.8j1.9.0....0...1c.1.64.psy-ab..0.3.286...0i10i30k1j0i8i10i30k1j0i13i10i30k1j0i8i13i10i30k1.0.82CLrAnKago | warning __aeabi_dadd undefined - Google 搜索
+http://blog.51cto.com/scutwrm/1401122 | pcduino_arm_rtl8187L 驱动安装编译过程 -IT之路，从此起航-51CTO博客
+https://blog.csdn.net/magod/article/details/6594608 | WEXT/mac80211/nl80211/cfg80211 - CSDN博客
+https://www.google.com/search?newwindow=1&biw=1920&bih=949&ei=QIYDW7CqD9Ps0ASVi42IBA&q=linux+api+%E8%AE%BE%E7%BD%AEIP&oq=linux+api+%E8%AE%BE%E7%BD%AEIP&gs_l=psy-ab.3...14535.15950.0.16309.3.3.0.0.0.0.111.245.2j1.3.0....0...1c.1j4.64.psy-ab..0.0.0....0.SMstId-ZbSA | linux api 设置IP - Google 搜索
+https://blog.csdn.net/ctthuangcheng/article/details/36189255 | linux C 获取与修改IP地址 - CSDN博客
+https://blog.csdn.net/gemmem/article/details/7268533 | ioctl()函数详解 - CSDN博客
+https://stackoverflow.com/questions/35389894/bluetooth-low-enery-on-linux-api?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa | Bluetooth Low-Enery on Linux API - Stack Overflow
+https://lilyhack.wordpress.com/2014/02/03/ble-read-write-arduino-raspberry-pi/ | Bluetooth Low Energy: Read-Write to Sensor Network from Raspberry Pi | nahid's noise
+https://github.com/labapart/gattlib | labapart/gattlib: Library to access GATT information from BLE (Bluetooth Low Energy) devices
+http://blog.sina.com.cn/s/blog_602f87700100e5q9.html | 实战Linux Bluetooth编程（三） HCI层编程_BigSam78_新浪博客
+https://blog.csdn.net/u010657219/article/details/42191039 | HCI层数据包格式 - CSDN博客
+https://kunyichen.wordpress.com/2006/11/28/bluetooth-hci-data-format/ | Bluetooth HCI Data format – 願~~
+http://www.runoob.com/linux/linux-comm-insmod.html | Linux insmod命令 | 菜鸟教程
+https://www.google.com/search?newwindow=1&ei=8N8EW9jQOov2vgTalLrwDw&q=linux+bluetooth+cli+tools&oq=linux+bluetooth+cli+tools&gs_l=psy-ab.3...279815.281125.0.281483.4.4.0.0.0.0.87.284.4.4.0....0...1c.1.64.psy-ab..0.2.153...0i7i30i19k1j0i19k1j0i8i30i19k1j0i7i5i30i19k1j0i5i30i19k1j0i7i30k1.0.e6WeAoNVpng | linux bluetooth cli tools - Google 搜索
+https://www.pcsuggest.com/linux-bluetooth-setup-hcitool-bluez/ | Linux bluetooth setup with bluez and hcitool - PCsuggest
+https://unix.stackexchange.com/questions/96693/connect-to-a-bluetooth-device-via-terminal?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa | command line - Connect to a Bluetooth device via Terminal - Unix & Linux Stack Exchange
+https://unix.stackexchange.com/questions/93625/low-level-bluetooth-utility?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa | Low-level bluetooth utility - Unix & Linux Stack Exchange
+https://www.google.com/search?newwindow=1&ei=xj4FW_KPKcyv0ATCm5KoDQ&q=c%2B%2B+%E5%AD%90%E7%B1%BB+%E7%88%B6%E7%B1%BB+%E6%8C%87%E9%92%88&oq=c%2B%2B+%E5%AD%90%E7%B1%BB+%E7%88%B6%E7%B1%BB+%E6%8C%87%E9%92%88&gs_l=psy-ab.3...240142.245462.0.247563.5.5.0.0.0.0.78.361.5.5.0....0...1c.1j4.64.psy-ab..0.4.292...0j0i7i30k1j0i8i7i30k1j0i30k1j0i8i30k1.0.XvOFOXEhRTg | c++ 子类 父类 指针 - Google 搜索
+https://blog.csdn.net/u010355144/article/details/45115321 | C++ 父类指针指向子类对象||子类指针指向父类对象的理解 - CSDN博客
+
+https://www.easyuefi.com/wintohdd/resource/move-windows-7-to-new-hard-drive.html | How to transfer/move Windows 7 to new hard drive without reinstalling?
+https://www.backup-utility.com/clone/clonezilla-windows-7-4125.html | How to Use Clonezilla in Windows 7 for System Cloning?
+http://www.briteccomputers.co.uk/posts/clone-and-backup-windows-with-macrium-reflect-free/ | Clone and Backup Windows with Macrium Reflect Free -
+
+https://www.google.com/search?newwindow=1&ei=5mMCW_H_JcrivASOtIuICg&q=__aeabi_dcmple+&oq=__aeabi_dcmple+&gs_l=psy-ab.3...157583.157583.0.157878.1.1.0.0.0.0.238.238.2-1.1.0....0...1c.1.64.psy-ab..0.0.0....0.8SEy0Pc5Vjg | __aeabi_dcmple - Google 搜索
+http://infocenter.arm.com/help/topic/com.arm.doc.ihi0043d/IHI0043D_rtabi.pdf | Run-time ABI for the ARM Architecture
+https://blog.csdn.net/lxl584685501/article/details/45692103 | android---整形*浮点--相乘错误（浮点运算）---- - CSDN博客
+https://stackoverflow.com/questions/2450845/what-does-this-error-mean-somefile-c200-error-the-frame-size-of-1032-bytes | gcc - What does this error mean: `somefile.c:200: error: the frame size of 1032 bytes is larger than 1024 bytes`? - Stack Overflow
+http://www.voidcn.com/article/p-skfoluqz-bd.html | LINUX 驱动 WARNING: "__aeabi_d2iz" [xxxxxx.ko] undefined! - 程序园
+https://www.google.com/search?newwindow=1&ei=bTkCW7bnIoXEvQTC9aaABQ&q=c%2B%2B+%E5%87%BD%E6%95%B0+%E7%AD%BE%E5%90%8D&oq=c%2B%2B+%E5%87%BD%E6%95%B0+%E7%AD%BE%E5%90%8D&gs_l=psy-ab.3..0i12k1.412181.413636.0.415250.3.3.0.0.0.0.115.208.1j1.2.0....0...1c.1j4.64.psy-ab..1.2.207...0j0i67k1.0.lW25tFuOUlc | c++ 函数 签名 - Google 搜索
+https://blog.csdn.net/fengbingchun/article/details/79133749 | C++中的函数签名 - CSDN博客
+https://stackoverflow.com/questions/3178342/compiling-a-c-program-with-gcc?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa | Compiling a C++ program with gcc - Stack Overflow
+http://en.cppreference.com/w/cpp/io/cout | std::cout, std::wcout - cppreference.com
+https://www.google.com/search?q=soft-float&oq=soft-float&aqs=chrome..69i57j69i60&sourceid=chrome&ie=UTF-8 | soft-float - Google 搜索
+https://stackoverflow.com/questions/3321468/whats-the-difference-between-hard-and-soft-floating-point-numbers?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa | c - What's the difference between hard and soft floating point numbers? - Stack Overflow
+https://www.google.com/search?q=linux+obj-m&oq=linux+obj-m&aqs=chrome..69i57j0l5.3403j0j7&sourceid=chrome&ie=UTF-8 | linux obj-m - Google 搜索
+https://blog.csdn.net/shanzhizi/article/details/8626474 | linux设备驱动makefile入门解析 - CSDN博客
+https://www.google.com/search?newwindow=1&ei=N5kCW_u8MoKm0AS49azQBg&q=rtl+btcoex&oq=rtl+btcoex&gs_l=psy-ab.3...120134.122337.0.122474.10.10.0.0.0.0.114.800.8j2.10.0....0...1c.1.64.psy-ab..0.7.551...0j0i67k1j0i131k1j0i3k1j0i12k1j0i12i10k1j0i30k1j33i160k1.0.naJYDrjxYgs | rtl btcoex - Google 搜索
+https://www.google.com/search?newwindow=1&ei=Z50CW77AKIb4vASRqYG4Aw&q=read+write+bluetooth+device&oq=read+write+bluetooth+device&gs_l=psy-ab.3..33i160k1.559317.565657.0.566563.27.22.0.0.0.0.465.3788.2-6j0j5.11.0....0...1c.1.64.psy-ab..16.11.3783...0j0i67k1j0i12k1j0i10k1j0i30k1j0i8i30k1j0i5i30k1j0i8i10i30k1.0.DK-77IFsXaU | read write bluetooth device - Google 搜索
+http://www.pclinuxos.com/forum/index.php?topic=133327.0 | How can i pair a bluetooth device without code
+
+https://my.oschina.net/xianggao/blog/541003 | CAP原理和最终一致性(Eventually Consistency) - 陶邦仁
+https://bitcoin.org/bitcoin.pdf | bitcoin.pdf
+https://zhuanlan.zhihu.com/p/25039679 | 比特币白皮书 个人翻译+注解
+http://www.8btc.com/hyperledger-whitepaper | 超级账本白皮书（1.0.1版）_巴比特_服务于区块链创新者
+https://yeasy.gitbooks.io/blockchain_guide/content/fabric/ | Fabric 部署与管理 · 区块链技术指南
+https://zhuanlan.zhihu.com/p/25119939 | Blockchain区块链架构设计之六：Fabric 1.0账本设计（1）
+
+https://github.com/ethereum/wiki/wiki/%5B%E4%B8%AD%E6%96%87%5D-%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%99%BD%E7%9A%AE%E4%B9%A6 | [中文] 以太坊白皮书 · ethereum/wiki Wiki
+https://blog.csdn.net/xiaofei0859/article/details/50562558 | Linux进程内存分布 - CSDN博客
+https://blog.csdn.net/quanzhongzhao/article/details/45575611 | 进程内存分布剖析 - CSDN博客
+http://www.diting0x.com/20170201/kernel-malloc/ | 深入理解Linux内存分配 - 善守者
+http://www.cnblogs.com/clover-toeic/p/3754433.html | Linux虚拟地址空间布局 - clover_toeic - 博客园
+http://www.cnblogs.com/jacksu-tencent/p/3377232.html | 内存管理之程序内存分布 - TheBug - 博客园
+http://wangxuemin.github.io/2015/07/30/LINUX%E7%A8%8B%E5%BA%8F(%E8%BF%9B%E7%A8%8B)%E5%9C%A8%E5%86%85%E5%AD%98%E4%B8%AD%E7%9A%84%E5%B8%83%E5%B1%80/ | LINUX程序(进程)在内存中的布局 | mumumuwudi的博客
+https://blog.csdn.net/cywosp/article/details/23397179 | 每天进步一点点——五分钟理解一致性哈希算法(consistent hashing) - CSDN博客
+https://yikun.github.io/2016/06/09/%E4%B8%80%E8%87%B4%E6%80%A7%E5%93%88%E5%B8%8C%E7%AE%97%E6%B3%95%E7%9A%84%E7%90%86%E8%A7%A3%E4%B8%8E%E5%AE%9E%E8%B7%B5/ | 一致性哈希算法的理解与实践 | Yikun
+http://afghl.github.io/2016/07/04/consistent-hashing.html | 一致性哈希（Consistent Hashing）原理 有个博客
+https://wizardforcel.gitbooks.io/the-art-of-programming-by-july/content/a.3.html | 一致性哈希算法 | 编程之法：面试和算法心得
+https://my.oschina.net/u/1859679/blog/1573770 | 一致性hash在DynamoDB上的应用 - wier
+http://www.zsythink.net/archives/1182 | 白话解析：一致性哈希算法 consistent hashing
+https://www.zhihu.com/question/21419897 | Redis集群方案应该怎么做？ - 知乎
+https://blog.csdn.net/cjfeii/article/details/47320351 | Redis集群主备模式部署 - CSDN博客
+https://juejin.im/entry/596343056fb9a06bc340ac15 | Redis集群的原理和搭建 - 后端 - 掘金
+https://tech.youzan.com/redisji-qun-shi-xian-yuan-li-tan-tao/ | Redis集群实现原理探讨
+https://yeasy.gitbooks.io/blockchain_guide/content/ | 前言 · 区块链技术指南
+https://zhuanlan.zhihu.com/p/20399316 | 网络编程（七）：CAP原理推导和应用
+http://wangxin123.com/2016/10/21/CAP%E5%8E%9F%E7%90%86%E3%80%81%E4%B8%80%E8%87%B4%E6%80%A7%E6%A8%A1%E5%9E%8B%E3%80%81BASE%E7%90%86%E8%AE%BA%E5%92%8CACID%E7%89%B9%E6%80%A7/ | CAP原理、一致性模型、BASE理论和ACID特性 | 星空博客
+
+http://bbs.chinaunix.net/thread-4174869-1-1.html | 使用LTIB工具生成rootfs报错 - 嵌入式开发-ChinaUnix.net
+http://lists.busybox.net/pipermail/buildroot/2013-July/075417.html | [Buildroot] [PATCHv3 08/14] configs: use new EABIhf option for beaglebone_defconfig
+
+http://docs.ifjy.me/contents/wireless/008/cfg802.11.html | Yajun's Docs
+http://blog.51cto.com/yaoyang/1263630 | NAPI 方式的实现 （linux网络子系统学习 第三节 ）-耀洋的博客-51CTO博客
+http://www.voidcn.com/article/p-msamyovl-eh.html | linux napi网卡驱动原理 - 程序园
+https://www.google.com/search?newwindow=1&ei=Oov7WuH2Dcz78QWV2YroDg&q=usb_device_id&oq=usb_device_id&gs_l=psy-ab.3..0j0i30k1l9.60485.62999.0.63301.9.9.0.0.0.0.138.760.6j3.9.0....0...1c.1.64.psy-ab..0.9.758...0i67k1j0i10k1.0.1KuwLTvyOGk | usb_device_id - Google 搜索
+https://elixir.bootlin.com/linux/v4.6/source/include/linux/mod_devicetable.h#L101 | Linux source code: include/linux/mod_devicetable.h (v4.6) - Bootlin
+https://www.google.com/search?newwindow=1&ei=sML7WsfoGIiC8wW3obiADQ&q=linux+bluetooth+driver+hci+register&oq=linux+bluetooth+driver+hci+register&gs_l=psy-ab.3...283391.286498.0.286703.13.13.0.0.0.0.149.982.12j1.13.0....0...1c.1.64.psy-ab..0.9.700...0j0i30k1j0i5i30k1j0i8i30k1j33i160k1.0.n7EvknOq2oc | linux bluetooth driver hci register - Google 搜索
+http://www.cnblogs.com/hzl6255/p/3815697.html | Linux Bluetooth内核分析之HCI部分 - 北落不吉 - 博客园
+https://www.google.com/search?q=hciconfig&oq=hciconfig&aqs=chrome..69i57j0l5.1412j0j9&sourceid=chrome&ie=UTF-8 | hciconfig - Google 搜索
+https://e2e.ti.com/support/wireless_connectivity/wilink_wifi_bluetooth/f/307/t/321850?compile-ti-compat-wireless-wl12xx-with-mfloat-abi-hard | [Resolved] compile ti-compat-wireless-wl12xx with -mfloat-abi=hard - WiLink™ WiFi + Bluetooth Forum - WiLink™ WiFi + Bluetooth - TI E2E Community
+https://www.raspberrypi.org/forums/viewtopic.php?t=42306 | Hard Float Setting for Building Linux Kernel - Raspberry Pi Forums
+https://blog.csdn.net/newthinker_wei/article/details/8022696 | 【学习笔记】编译Linux内核（下）---KConfig、Makefile详解以及ARM平台Linux内核的编译 - CSDN博客
+https://blog.csdn.net/cjluxuwei/article/details/37878021 | 编译内核模块的Makefile中的($(KERNELRELEASE) - CSDN博客
+https://blog.csdn.net/liukun321/article/details/6874489 | KERNELRELEASE 的定义 - CSDN博客
+https://blog.csdn.net/idoming/article/details/51025615 | ifneq ($(KERNELRELEASE),) 是做什么用的 - CSDN博客
+
+http://dockone.io/article/783 | 10张图带你深入理解Docker容器和镜像 - DockOne.io
+https://blogs.oracle.com/janp/entry/how_the_scp_protocol_works | https://blogs.oracle.com/janp/entry/how_the_scp_protocol_works
+https://blog.byneil.com/%E6%94%B6%E8%97%8F-scp-secure-copy%E5%8D%8F%E8%AE%AE/ | 收藏 scp (Secure copy)协议 - Blog by Neil
+https://blog.gopheracademy.com/advent-2014/fuse-zipfs/ | Writing file systems in Go with FUSE GopherAcademy
+http://www.dooccn.com/nodejs/ | nodejs在线执行,nodejs代码在线测试,在线调试工具网站
+https://superuser.com/questions/549497/how-to-switch-back-text-encoding-to-utf-8-with-emacs | How to switch back text encoding to UTF-8 with emacs? - Super User
+http://www.qnx.com/developers/docs/6.4.1/neutrino/getting_started/s1_procs.html | www.qnx.com/developers/docs/6.4.1/neutrino/getting_started/s1_procs.html
+https://askubuntu.com/questions/41605/trouble-downloading-packages-list-due-to-a-hash-sum-mismatch-error | apt - Trouble downloading packages list due to a "Hash sum mismatch" error - Ask Ubuntu
+https://mirror.tuna.tsinghua.edu.cn/help/ubuntu/ | Ubuntu | 镜像站使用帮助 | 清华大学开源软件镜像站 | Tsinghua Open Source Mirror
+https://www.ccn.com/bitcoin-transaction-really-works/ | How a Bitcoin Transaction Works
+http://pytool.com/2016/01/12/%E6%96%87%E6%9C%AC%E7%BC%96%E8%BE%91%E5%99%A8-2015-01-12-%E6%96%87%E6%9C%AC%E7%BC%96%E8%BE%91-Emacs/ | Huawei Proxy Notification
+
+https://css-tricks.com/presentation-attributes-vs-inline-styles/ | Presentation Attributes vs Inline Styles | CSS-Tricks
+
+https://www.chipestimate.com/Simplifying-USB-Software-Development-with-Linux-Drivers/Synopsys/Technical-Article/2016/04/05 | Simplifying USB Software Development with Linux Drivers — Synopsys Technical Article | ChipEstimate.com
+https://opensourceforu.com/2011/10/usb-drivers-in-linux-1/ | Device Drivers, Part 11: USB Drivers in Linux - LINUX For You
+
+https://blog.csdn.net/newnewman80/article/details/14451763 | 实战Linux Bluetooth编程（三） HCI层编程 - CSDN博客
+https://blog.csdn.net/liuxd3000/article/details/23761663 | linux Wireless基础知识(cfg80211 mac80211 nl80211) - CSDN博客
+https://stackoverflow.com/questions/21456235/how-nl80211-library-cfg80211-work?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa | c - How nl80211 library & cfg80211 work? - Stack Overflow
+http://www.xml.com/ldd/chapter/book/ch14.html | Linux Device Drivers, 2nd Edition: Chapter 14: Network Drivers
+https://www.google.com/search?newwindow=1&biw=1920&bih=949&ei=VVL5WvepOcHS0ATJtIa4Cw&q=mac80211+ieee80211&oq=mac80211+ieee80211&gs_l=psy-ab.3..0i30k1l4j0i8i30k1j0i8i10i30k1j0i8i30k1l2.157130.171006.0.171808.18.16.0.2.2.0.191.1271.13j2.15.0....0...1c.1.64.psy-ab..1.17.1277...0j0i67k1j0i131k1j0i10k1.0.CznZrzy4FzQ | mac80211 ieee80211 - Google 搜索
+https://www.linux.com/blog/linux-wireless-networking-short-walk | Linux Wireless Networking: a short walk | Linux.com | The source for Linux information
+https://www.linkedin.com/pulse/wlan-drivers-code-walk-linux-bhanu-prakash-singh | WLAN Drivers code walk in linux: | Bhanu Prakash Singh | Pulse | LinkedIn
+
+https://www.google.com/search?newwindow=1&ei=IWryWtz6K8f_8gWutqLICQ&q=linux+driver+network+interface+receive+data&oq=linux+driver+network+interface+receive+data&gs_l=psy-ab.3...788329.807933.0.809288.59.54.3.2.2.0.157.3968.46j7.53.0....0...1c.1.64.psy-ab..1.45.3052...0j0i12k1j0i30k1j0i19k1j0i30i19k1j0i8i30k1j0i5i30k1j33i160k1.0.Ii4_pWKGSUc | linux driver network interface receive data - Google 搜索
+http://blog.51cto.com/yaoyang/1263842 | 收包软中断和netif_rx （linux网络子系统学习 第四节 ）-耀洋的博客-51CTO博客
+https://www.google.com/search?newwindow=1&ei=Cv7zWqGXK4mE8gW2g6OACw&q=linux+napi&oq=linux+napi&gs_l=psy-ab.3..0i7i30k1l6j0l2j0i30k1l2.166341.167245.0.167545.6.6.0.0.0.0.111.544.5j1.6.0....0...1c.1.64.psy-ab..0.6.542...0i7i30i19k1j0i7i10i30i19k1j0i7i10i30k1.0.lEGY-kKBkSw | linux napi - Google 搜索
+http://cxd2014.github.io/2017/10/15/linux-napi/ | Linux协议栈--NAPI机制
+https://www.google.com/search?q=napi_list&oq=napi_list&aqs=chrome..69i57j0l5.606j0j4&sourceid=chrome&ie=UTF-8 | napi_list - Google 搜索
+https://blog.csdn.net/Whisper_J/article/details/8638503 | NAPI - CSDN博客
+https://www.google.com/search?newwindow=1&ei=wQ70Ws3WJ8T88QWHiLuYAQ&q=napi_struct+dev_list+what+for&oq=napi_struct+dev_list+what+for&gs_l=psy-ab.3..33i160k1.3140.8424.0.8511.11.10.1.0.0.0.139.783.8j2.10.0....0...1c.1.64.psy-ab..0.7.594....0.w_2Ow2cB-lM | napi_struct dev_list what for - Google 搜索
+http://bbs.chinaunix.net/thread-2300829-1-1.html | 请教个napi_struct 、net_device数据结构中与链表相关的几个问题 - 内核源码-ChinaUnix.net
+
+https://github.com/paralin/rtl8821au | paralin/rtl8821au: RTL8821au driver updated to work on the latest kernels
+https://github.com/paralin/rtl8821au/search?p=2&q=CONFIG_RTL8821A&type=&utf8=%E2%9C%93 | Search · CONFIG_RTL8821A
+https://github.com/paralin/rtl8821au/blob/master/Makefile | rtl8821au/Makefile at master · paralin/rtl8821au
+file:///C:/Users/l00397738/AppData/Roaming/eSpace_Desktop/UserData/l00397738/ReceiveFile/BL-M8821CU1_Product_Specification_V1.0_55969.pdf | _x0001_
+https://www.google.com/search?newwindow=1&ei=BhTwWrrGOsKb0gSLoLP4CQ&q=freertos+usb+driver+github&oq=freertos+usb+driver+github&gs_l=psy-ab.3...1063490.1064694.0.1064893.7.7.0.0.0.0.115.512.6j1.7.0....0...1c.1.64.psy-ab..0.4.339...0i30k1j0i8i30k1j33i160k1.0.hyimLJhXy7I | freertos usb driver github - Google 搜索
+
+https://www.cs.kent.ac.uk/people/staff/dat/miranda/wadler87.pdf | wadler87.pdf
+http://www.2net.co.uk/downloads/ESC-linux-is-not-an-rtos-slides.pdf | ESC-linux-is-not-an-rtos-slides.pdf
+
+http://www.microchip.com/wwwproducts/en/IS1870#additional-features | IS1870 - Bluetooth Silicon - Microcontrollers and Processors
+http://ww1.microchip.com/downloads/en/DeviceDoc/IS1870_71-Bluetooth-Low-Energy-BLE-SoC-DS60001371E.pdf | IS1870/71 Bluetooth Low Energy (BLE) SoC
+http://softbuild.ru/load/10-1-0-309 | Realtek WiFi Drivers 2023.56.0502.2017 / 3008.54.0414.2017 / 1030.25.0701.2017 - Drivers - Software News - SoftBuild
+http://www.realtek.com.tw/products/productsView.aspx?Langid=1&PFid=60&Level=5&Conn=4&ProdID=386 | Realtek
+
+http://freesoftwaremagazine.com/articles/drivers_linux/ | Writing device drivers in Linux: A brief tutorial
+http://gauss.ececs.uc.edu/Courses/e4022/code/drivers/Kernel/docs.html | Writing Network Device Drivers for Linux LG #156
+https://github.com/JianRuiqian/marvellwifi | JianRuiqian/marvellwifi: Marvell WiFi driver for rt-thread
+https://www.google.com/search?q=%22is1870%22+%22bm70%22&oq=%22is1870%22+%22bm70%22&aqs=chrome..69i57.12550j0j7&sourceid=chrome&ie=UTF-8 | "is1870" "bm70" - Google 搜索
+
+http://www.tldp.org/LDP/LG/issue93/bhaskaran.html | Writing a Network device driver - Part 1 LG #93
+https://courses.engr.illinois.edu/cs423/sp2014/Lectures/LinuxDriver.pdf | LinuxDriver.pdf
+
+https://www.kernel.org/doc/html/latest/index.html | The Linux Kernel documentation — The Linux Kernel documentation
+https://github.com/torvalds/linux/blob/06dd3dfeea60e2a6457a6aedf97afc8e6d2ba497/include/linux/device.h | linux/device.h at 06dd3dfeea60e2a6457a6aedf97afc8e6d2ba497 · torvalds/linux
+https://github.com/torvalds/linux/blob/f6cff79f1d122f78a4b35bf4b2f0112afcd89ea4/include/linux/usb.h | linux/usb.h at f6cff79f1d122f78a4b35bf4b2f0112afcd89ea4 · torvalds/linux
+https://github.com/torvalds/linux/blob/06dd3dfeea60e2a6457a6aedf97afc8e6d2ba497/drivers/usb/usb-skeleton.c | linux/usb-skeleton.c at 06dd3dfeea60e2a6457a6aedf97afc8e6d2ba497 · torvalds/linux
+https://static.lwn.net/images/pdf/LDD3/ch17.pdf | ,ch17.13860
+https://linuxgazette.net/156/jangir.html | Writing Network Device Drivers for Linux LG #156
+http://www.embeddedlinux.org.cn/essentiallinuxdevicedrivers/final/ch15lev1sec4.html | Device Example: Ethernet NIC--Essential Linux Device Drivers--嵌入式linux中文站
+
+https://tonybai.com/2017/06/23/an-intro-about-goroutine-scheduler/ | 也谈goroutine调度器 | Tony Bai
+https://talks.golang.org/2012/concurrency.slide#1 | Go Concurrency Patterns
+https://morsmachine.dk/go-scheduler | The Go scheduler - Morsing's blog
+https://tonybai.com/2017/11/23/the-simple-analysis-of-goroutine-schedule-examples/ | Goroutine调度实例简要分析 | Tony Bai
+https://povilasv.me/go-scheduler/ | Go scheduler: Ms, Ps & Gs - Povilas Versockas
+https://rakyll.org/scheduler/ | Go's work-stealing scheduler · Go, the unwritten parts
+
+http://unenumerated.blogspot.sg/2017/02/money-blockchains-and-social-scalability.html | Unenumerated: Money, blockchains, and social scalability
+https://bitmessage.org/bitmessage.pdf | bitmessage.pdf
+https://bitcoinmagazine.com/articles/scriptless-scripts-how-bitcoin-can-support-smart-contracts-without-smart-contracts/ | Scriptless Scripts: How Bitcoin Can Support Smart Contracts Without ...
+
+http://www.solinx.co/archives/415 | 一致性算法Raft详解 | Solinx
+http://opensourceforu.com/2011/10/usb-drivers-in-linux-1/ | Device Drivers, Part 11: USB Drivers in Linux - LINUX For You
+
+https://www.google.com/search?ei=GH7NWoP7DojdvgSJ_qnwDQ&q=google+tls+10+kb+how&oq=google+tls+10+kb+how&gs_l=psy-ab.3...331550.331550.0.332100.1.1.0.0.0.0.85.85.1.1.0....0...1.1.64.psy-ab..0.0.0....0.xl8WhzOUXjg | google tls 10 kb how - Google 搜索
+https://hpbn.co/transport-layer-security-tls/ | Networking 101: Transport Layer Security (TLS) - High Performance Browser Networking (O'Reilly)
+https://nbsoftsolutions.com/blog/the-cost-of-tls-in-java-and-solutions | The Cost of TLS in Java and Solutions
+https://istlsfastyet.com/ | Is TLS Fast Yet?
+
+https://www.zhihu.com/question/268828822 | 前端工程师是如何迈向中高级阶段的? - 知乎
+
+https://www.zhihu.com/question/20772002 | 有哪些工具或者软件堪称神器？ - 知乎
+https://www.zhihu.com/question/23360635 | 有哪些可称为「办公室神器」的东西？ - 知乎
+
+http://colobu.com/2016/12/24/a-featured-fsm/ | 一个有特色的有限状态机 | 鸟窝
+https://www.artima.com/weblogs/viewpost.jsp?thread=236275 | Things to Know About Python Super [1 of 3]
+https://stackoverflow.com/questions/32037496/how-to-copy-text-to-system-clipboard-in-emacs-while-working-in-terminal-buffer | linux - How to copy text to system clipboard in emacs while working in terminal buffer? - Stack Overflow
+https://www.google.com/search?q=emacs+parenthesis+matching+highlight&oq=emacs+parenthesis+&aqs=chrome.3.69i57j0l5.11475j0j7&sourceid=chrome&ie=UTF-8 | emacs parenthesis matching highlight - Google 搜索
+https://www.emacswiki.org/emacs/ShowParenMode | EmacsWiki: Show Paren Mode
+
+https://zhuanlan.zhihu.com/p/31001684 | 使用coroutine实现状态机
+https://zhuanlan.zhihu.com/p/31566664 | 使用coroutine实现状态机（2）
+https://zhuanlan.zhihu.com/p/31583081 | 使用coroutine实现状态机（3）
+https://www.ibm.com/developerworks/cn/linux/l-fsmachine/ | 为Linux应用构造有限状态机
+http://www.ruanyifeng.com/blog/2013/09/finite-state_machine_for_javascript.html | JavaScript与有限状态机 - 阮一峰的网络日志
+https://www.google.com/search?newwindow=1&ei=Zv-hWufQB4m60gT3077ACQ&q=golang+ip+byte&oq=golang+ip+byte&gs_l=psy-ab.3..0i8i30k1.16771206.16772915.0.16773464.7.7.0.0.0.0.150.506.6j1.7.0....0...1.1.64.psy-ab..0.7.505...0j0i67k1.0.WED5Ni9zPU8 | golang ip byte - Google 搜索
+https://stackoverflow.com/questions/25469682/break-out-of-select-loop | concurrency - Break out of select loop? - Stack Overflow
+https://godoc.org/os#File.Read | os - GoDoc
+https://sourcegraph.com/github.com/golang/go/-/blob/src/net/ip.go#L55:5 | ip.go - golang/go - Sourcegraph
+
+https://godoc.org/encoding/json#Unmarshal | json - GoDoc
+
+https://www.google.com/search?newwindow=1&ei=dKOgWv76E4fD0gSg_qCQCQ&q=golang+map+range&oq=golang+map+range&gs_l=psy-ab.3..0l2j0i30k1j0i8i30k1l5.1712242.1712938.0.1713113.5.4.0.0.0.0.74.249.4.4.0....0...1c.1.64.psy-ab..1.4.248....0.OEHdrhiHSDQ | golang map range - Google 搜索
+https://tour.golang.org/moretypes/20 | A Tour of Go
+https://www.google.com/search?q=git+show+head&oq=git+show+head&aqs=chrome..69i57j0l5.2091j0j7&sourceid=chrome&ie=UTF-8 | git show head - Google 搜索
+http://10.64.121.177:8080/jenkins/job/SmartProvisioning_QuickDeploy_golint/golint_Report/ | 10.64.121.177:8080/jenkins/job/SmartProvisioning_QuickDeploy_golint/golint_Report/
+https://docs.python.org/2/library/htmlparser.html | 19.1. HTMLParser — Simple HTML and XHTML parser — Python 2.7.14 documentation
+
+https://coolshell.cn/articles/9104.html | sed 简明教程 | | 酷 壳 - CoolShell
+https://www.ostechnix.com/download-rpm-package-dependencies-centos/ | How To Download A RPM Package With All Dependencies In CentOS
+http://www.system-rescue-cd.org/lvm-guide-en/Making-consistent-backups-with-LVM/ | SystemRescueCd - Making consistent backups with LVM
+https://superuser.com/questions/294662/how-to-get-list-of-dependencies-of-non-installed-rpm-package | linux - How to get list of dependencies of non-installed RPM package? - Super User
+http://blog.51cto.com/zhangmingqian/1068779 | 分区工具parted的详解及常用分区使用方法-3 idiots 记录云点滴-51CTO博客
+https://www.google.com/search?newwindow=1&ei=Q_KTWv3DFsKB8wW_y5aYCA&q=sed+replace+first+two&oq=sed+replace+first+two&gs_l=psy-ab.3..0j0i30k1l2.938754.943671.0.944222.21.21.0.0.0.0.136.1365.18j2.20.0....0...1.1.64.psy-ab..1.20.1361...0i67k1j0i10i67k1j0i131k1j0i12k1j0i8i30k1.0.QQ5LP7v4J38 | sed replace first two - Google 搜索
+https://unix.stackexchange.com/questions/155805/sed-replace-first-k-instances-of-a-word-in-the-file | text processing - Sed -- Replace first k instances of a word in the file - Unix & Linux Stack Exchange
+http://blog.csdn.net/hjxhjh/article/details/17264739 | linux shell 将多行文件转换为一行 - CSDN博客
+https://coolshell.cn/articles/9070.html | AWK 简明教程 | | 酷 壳 - CoolShell
+https://wiki.archlinux.org/index.php/Fstab_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87) | fstab (简体中文) - ArchWiki
+https://zh.wikipedia.org/wiki/SquashFS | SquashFS - 维基百科，自由的百科全书
+https://www.google.com/search?newwindow=1&ei=oQiWWs6SK8fC0gSih5CgDw&q=awk+multiple+separator&oq=awk+multi&gs_l=psy-ab.3.0.0l10.22429796.22431604.0.22433510.9.9.0.0.0.0.170.673.6j2.8.0....0...1.1.64.psy-ab..1.8.671...0i67k1j0i12k1.0.0BVV2rfAi1k | awk multiple separator - Google 搜索
+https://stackoverflow.com/questions/12204192/awk-multiple-delimiter | linux - AWK multiple delimiter - Stack Overflow
+https://stackoverflow.com/questions/16917623/use-sed-with-ignore-case-while-adding-text-before-some-pattern | linux - Use sed with ignore case while adding text before some pattern - Stack Overflow
+https://www.ibm.com/developerworks/cn/linux/l-lpic1-v3-102-1/index.html | 学习 Linux，101: 硬盘布局
+https://www.google.com/search?newwindow=1&ei=goOWWunKCIGq8QXehpy4Aw&q=linux+patse&oq=linux+patse&gs_l=psy-ab.3..0i13k1l10.445588.447588.0.447887.11.11.0.0.0.0.172.978.8j3.11.0....0...1.1.64.psy-ab..0.11.977...0j0i67k1j0i131k1j0i131i67k1j0i3k1j0i12k1.0.Cc9uhqIBOBU | linux patse - Google 搜索
+https://linux.die.net/man/8/mkfs | mkfs(8): build file system - Linux man page
+http://blog.51cto.com/lq2419/1238880 | 三大文本处理工具grep、sed及awk的简单介绍-呼伦贝尔—写在人生路上-51CTO博客
+
+https://qbforums.shiki.hu/index.php/topic,2666.msg16127.html#msg16127 | If pause is really stop, why call it pause?
+https://zh.wikibooks.org/zh-sg/Haskell | Haskell - 维基教科书，自由的教学读本
+
+https://www.google.com/search?q=Haskell&stick=H4sIAAAAAAAAAONgFuLSz9U3MK5MsshIUuIAs7PiC7X4nPNzc_PzgjNTUssTK4sBCMyy4CgAAAA&sa=X&ved=0ahUKEwj6143c-MTZAhUDzLwKHTwKAzIQxA0I1AEwDg&biw=1920&bih=949 | Haskell - Google 搜索
+https://zh.wikipedia.org/wiki/Haskell | Haskell - 维基百科，自由的百科全书
+https://www.haskell.org/ | Haskell Language
+https://www.reddit.com/r/torrents/comments/5imnjb/sincere_question_utorrent_vs_qbittorrent/ | [Sincere Question] uTorrent vs Qbittorrent：torrents
+https://qbforums.shiki.hu/index.php?topic=3224.0 | Migrate from uTorrent to qBittorrent easily
+
+http://vault.centos.org/7.3.1611/os/x86_64/Packages/ | Index of /7.3.1611/os/x86_64/Packages
+https://sourcegraph.com/github.com/golang/go/-/blob/src/os/file.go#L258:12$references | file.go - golang/go - Sourcegraph
+https://forums.fsarchiver.org/viewtopic.php?t=982 | Saving and restoring bootable partitions using fsarchiver - www.fsarchiver.org
+http://www.fsarchiver.org/faq/ | FSArchiver - Frequently asked questions
+https://godoc.org/os/exec#Cmd.StderrPipe | exec - GoDoc
+https://godoc.org/bytes#NewBuffer | bytes - GoDoc
+
+https://www.shellhacks.com/yum-install-specific-version-of-package/ | YUM - Install Specific Version of Package - ShellHacks
+https://studygolang.com/articles/2076 | 使用 Go 语言实现优雅的服务器重启 - Go语言中文网 - Golang中文社区
+https://github.com/Scalingo/go-graceful-restart-example/blob/master/ping.go | go-graceful-restart-example/ping.go at master · Scalingo/go-graceful-restart-example · GitHub
+https://www.google.com/search?q=emacs+revert+all+buffers&oq=emacs+revert+all&aqs=chrome.1.69i57j0l2j69i64.5831j0j7&sourceid=chrome&ie=UTF-8 | emacs revert all buffers - Google 搜索
+https://www.emacswiki.org/emacs/RevertBuffer | EmacsWiki: Revert Buffer
+
+https://www.google.com/search?q=linux+version&oq=linux+version&aqs=chrome..69i57j0l5.2008j0j7&sourceid=chrome&ie=UTF-8 | linux version - Google 搜索
+https://www.cyberciti.biz/faq/find-linux-distribution-name-version-number/ | HowTo: Find Out My Linux Distribution Name and Version - nixCraft
+
+http://www.cnblogs.com/f-ck-need-u/p/7302580.html | man nfsd(rpc.nfsd中文手册) - 骏马金龙 - 博客园
+http://www.ruanyifeng.com/blog/2016/03/systemd-tutorial-part-two.html | Systemd 入门教程：实战篇 - 阮一峰的网络日志
+
+https://sourcegraph.com/github.com/golang/go/-/blob/src/net/ipsock.go#L157 | ipsock.go - golang/go - Sourcegraph
+https://linux.die.net/man/8/rpc.nfsd | rpc.nfsd(8): NFS server process - Linux man page
+http://cn.linux.vbird.org/linux_server/0330nfs.php | 鸟哥的 Linux 私房菜 -- NFS 服务器
+
+https://unix.stackexchange.com/questions/122676/how-to-mount-an-remote-filesystem-with-specifying-a-port-number | linux - How to mount an remote filesystem with specifying a port number - Unix & Linux Stack Exchange
+
+https://www.google.com/search?q=FreePBX&oq=FreePBX&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8 | FreePBX - Google 搜索
+https://www.google.com/search?q=GSM%E7%BD%91%E5%8D%A1&oq=GSM%E7%BD%91%E5%8D%A1&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8 | GSM网卡 - Google 搜索
+https://www.google.com/search?q=Asterisk&oq=Asterisk&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8 | Asterisk - Google 搜索
+
+https://godoc.org/os#Chdir | os - GoDoc
+https://www.google.com/search?newwindow=1&ei=zkBgWqOWB8r-8QWLypjYAw&q=golang+logger+multiple+routine&oq=golang+logger+multiple+routine&gs_l=psy-ab.3...313749.317985.0.318363.13.13.0.0.0.0.129.955.11j2.13.0....0...1c.1.64.psy-ab..0.9.641...0i19k1j0i8i30i19k1j33i160k1.0.6lSYDH7UDz8 | golang logger multiple routine - Google 搜索
+https://stackoverflow.com/questions/18361750/correct-approach-to-global-logging-in-golang | go - Correct approach to global logging in Golang - Stack Overflow
+https://www.google.com/search?q=emacs+insert+date&oq=emacs+insert+date&aqs=chrome..69i57j0l5.3116j0j7&sourceid=chrome&ie=UTF-8 | emacs insert date - Google 搜索
+https://www.google.com/search?q=golang+close+channel&oq=golang+close+channel&aqs=chrome..69i57j0l5.3123j0j4&sourceid=chrome&ie=UTF-8 | golang close channel - Google 搜索
+https://gobyexample.com/closing-channels | Go by Example: Closing Channels
+https://www.google.com/search?newwindow=1&ei=Wn5gWuN7ifrxBZnBiOgB&q=conemu+%E4%B8%AD%E6%96%87%E4%B9%B1%E7%A0%81&oq=conemu+%E4%B8%AD%E6%96%87+&gs_l=psy-ab.3.0.0i12k1j0i30k1.894113.899036.0.902245.11.11.0.0.0.0.97.738.11.11.0....0...1c.1.64.psy-ab..0.11.735...0j0i67k1.0.2PhJF_xlQ0U | conemu 中文乱码 - Google 搜索
+https://www.zhihu.com/question/59714225 | 如何解决Bash on Windows在cmder中的中文乱码？ - 知乎
+https://conemu.github.io/en/CygwinMsysConnector.html | ConEmu | cygwin/msys terminal connector
+
+https://blog.xinshangshangxin.com/2015/10/30/cygwin-zsh/ | cygwin下zsh安装 | SHANG Blog
+https://www.google.com/search?q=golang+build+timestamp&oq=golang+build+time&aqs=chrome.1.69i57j0l2.6268j0j7&sourceid=chrome&ie=UTF-8 | golang build timestamp - Google 搜索
+https://stackoverflow.com/questions/11354518/golang-application-auto-build-versioning | go - Golang application auto build versioning - Stack Overflow
+https://www.google.com/search?q=linux+built+time&oq=linux+built+time&aqs=chrome..69i57.2920j0j7&sourceid=chrome&ie=UTF-8 | linux built time - Google 搜索
+https://unix.stackexchange.com/questions/264833/find-linux-kernel-build-date-time | Find Linux kernel build date/time? - Unix & Linux Stack Exchange
+https://www.google.com/search?q=linux+update+time&oq=linux+update+time&aqs=chrome..69i57j0l5.3314j0j7&sourceid=chrome&ie=UTF-8 | linux update time - Google 搜索
+https://www.google.com/search?q=emacs+mkdir&oq=emacs+mkdir&aqs=chrome..69i57j0j69i64.4610j0j4&sourceid=chrome&ie=UTF-8 | emacs mkdir - Google 搜索
+https://stackoverflow.com/questions/155507/how-do-i-create-a-directory-from-within-emacs | How do I create a directory from within Emacs? - Stack Overflow
+http://isource.huawei.com/FusionServer_Tools/SmartProvisioning/merge_requests?page=1&scope=merged&branch=SmartProvisioning_QuickDeploy | FusionServer_Tools/SmartProvisioning/merge_requests | iSource 5.0
+https://www.google.com/search?newwindow=1&ei=VxFfWp-jH4y00gSB6YGgCA&q=emacs+add+end+block&oq=emacs+add+end+block&gs_l=psy-ab.3...16248.16447.0.16647.3.3.0.0.0.0.156.275.2j1.3.0....0...1c.1.64.psy-ab..1.0.0....0.0yDp5smUREs | emacs add end block - Google 搜索
+https://stackoverflow.com/questions/4870704/appending-characters-to-the-end-of-each-line-in-emacs | Appending characters to the end of each line in Emacs - Stack Overflow
+https://www.google.com/search?newwindow=1&ei=ZxVfWpSADYWw0gTaooXoBA&q=golang+string+const&oq=golang+string+const&gs_l=psy-ab.3..0i19k1l3j0i30i19k1j0i8i30i19k1l2.101084.103874.0.104199.19.18.0.1.1.0.168.1346.14j3.17.0....0...1c.1.64.psy-ab..1.17.1270...0j0i67k1j0i12k1.0.cj81BSa1RzE | golang string const - Google 搜索
+http://www.cnblogs.com/howDo/archive/2013/04/15/GoLang-Constant.html | 老虞学GoLang笔记-常量 - 老虞 - 博客园
+https://studygolang.com/articles/5296 | 一、Go语言的变量和常量 - Go语言中文网 - Golang中文社区
+https://blog.golang.org/constants | Constants - The Go Blog
+
+http://www.cnblogs.com/lzrabbit/p/4298794.html | linux expect详解(ssh自动登录) - 懒惰的肥兔 - 博客园
+http://blog.csdn.net/leexide/article/details/17485451 | Shell脚本学习之expect命令 - CSDN博客
+https://patrickmn.com/aside/how-to-keep-alive-ssh-sessions/ | How to Keep Alive SSH Sessions
+http://einverne.github.io/post/2017/05/ssh-keep-alive.html | 保持SSH连接 | Verne in GitHub
+https://conemu.github.io/en/KeyboardShortcuts.html | ConEmu | Keyboard Shortcuts
+https://conemu.github.io/en/SettingsQuake.html | ConEmu | Settings › Quake style
+https://github.com/fish-shell/fish-shell/issues/789 | unicode \u23CE ⏎ character preceding every prompt in ConEmu · Issue #789 · fish-shell/fish-shell · GitHub
+https://conemu.github.io/en/AppsKey.html | ConEmu | Where is an Apps Key?
+https://github.com/Maximus5/conemu-old-issues/issues/1941 | Enter command to multiple windows · Issue #1941 · Maximus5/conemu-old-issues · GitHub
+https://superuser.com/questions/591206/how-do-i-configure-conemu-to-run-cygwin-bash | windows 7 - How do I configure ConEmu to run Cygwin Bash? - Super User
+
+https://godoc.org/time#Ticker | time - GoDoc
+https://wiki.openssl.org/index.php/Enc | Enc - OpenSSLWiki
+https://stackoverflow.com/questions/16056135/how-to-use-openssl-to-encrypt-decrypt-files | encryption - How to use OpenSSL to encrypt/decrypt files? - Stack Overflow
+https://www.jianshu.com/p/b63095c59361 | 对称加密算法和分组密码的模式 - 简书
+
+https://www.google.com/search?newwindow=1&ei=UhxPWourCYzR0ASi-Ii4Bw&q=golang+wait+for+input&oq=golang+wait+for+&gs_l=psy-ab.3.0.0l9.158203.160118.0.161323.11.9.0.2.2.0.127.614.8j1.9.0....0...1c.1.64.psy-ab..0.11.622...0i67k1j0i12k1.0.NGkRBoQvjFA | golang wait for input - Google 搜索
+https://stackoverflow.com/questions/20895552/how-to-read-input-from-console-line | go - How to read input from console line? - Stack Overflow
+https://www.google.com/search?newwindow=1&ei=80BPWtCKMIyg8QWxsomIBw&q=win7+route+del&oq=win7+route+del&gs_l=psy-ab.3..0i30k1l2j0i8i30k1l2.23748.23748.0.24050.1.1.0.0.0.0.72.72.1.1.0....0...1c.1.64.psy-ab..0.1.71....0.aWDhiF7E-9w | win7 route del - Google 搜索
+http://www.techieshelp.com/create-or-remove-a-static-route/ | How To Create or remove a static route
+
+https://unix.stackexchange.com/questions/259045/how-to-set-the-default-gateway | linux - How to set the Default gateway - Unix & Linux Stack Exchange
+https://www.cyberciti.biz/faq/linux-route-add/ | Linux route Add Command Examples - nixCraft
+https://www.google.com/search?q=dhclient&oq=dhclient&aqs=chrome..69i57j0l5.2418j0j7&sourceid=chrome&ie=UTF-8 | dhclient - Google 搜索
+http://man.linuxde.net/dhclient | dhclient命令_Linux dhclient 命令用法详解：动态获取或释放IP地址
+https://golang.org/doc/code.html | How to Write Go Code - The Go Programming Language
+https://emacs.stackexchange.com/questions/9908/can-cursor-jump-back-to-the-previous-position | Can cursor jump back to the previous position? - Emacs Stack Exchange
+https://github.com/dominikh/go-mode.el | GitHub - dominikh/go-mode.el: Emacs mode for the Go programming language
+https://www.google.com/search?q=golang+for+range+array&oq=golang+for+range+array&aqs=chrome..69i57.8233j0j9&sourceid=chrome&ie=UTF-8 | golang for range array - Google 搜索
+https://gobyexample.com/range | Go by Example: Range
+
+https://stackoverflow.com/questions/24078174/delete-the-first-line-that-matches-a-pattern | sed - Delete the first line that matches a pattern - Stack Overflow
+https://stackoverflow.com/questions/1580647/json-why-are-forward-slashes-escaped | javascript - JSON: why are forward slashes escaped? - Stack Overflow
+
+https://help.ubuntu.com/community/SSHFS | SSHFS - Community Help Wiki
+https://askubuntu.com/questions/235278/how-can-i-stop-unattended-upgrades-from-rebooting-the-machine | server - How can I stop unattended-upgrades from rebooting the machine? - Ask Ubuntu
+https://askubuntu.com/questions/15433/unable-to-lock-the-administration-directory-var-lib-dpkg-is-another-process | apt - Unable to lock the administration directory (/var/lib/dpkg/) is another process using it? - Ask Ubuntu
+https://www.google.com/search?q=shell+expect&oq=shell+expect&aqs=chrome..69i57j0l5.2612j0j7&sourceid=chrome&ie=UTF-8 | shell expect - Google 搜索
+
+https://stackoverflow.com/questions/40072965/golang-https-tls-post-client-server | go - Golang HTTPS/TLS POST client/server - Stack Overflow
+https://stackoverflow.com/questions/954560/how-does-git-handle-symbolic-links | version control - How does git handle symbolic links? - Stack Overflow
+https://gobyexample.com/variadic-functions | Go by Example: Variadic Functions
+https://www.digrouz.com/mediawiki/index.php?title=HOWTO_Remove_SSH_known_hosts_keys_from_Chrome_Secure_Shell_Extention | HOWTO Remove SSH known hosts keys from Chrome Secure Shell Extention - DGZWiki
+
+https://godoc.org/crypto/rand | rand - GoDoc
+https://godoc.org/crypto/cipher#NewCBCDecrypter | cipher - GoDoc
+https://godoc.org/syscall#Rmdir | syscall - GoDoc
+https://stackoverflow.com/questions/35482778/golang-no-such-device-in-syscall-mount | go - golang no such device in syscall.Mount - Stack Overflow
+https://stackoverflow.com/questions/19965795/go-golang-write-log-to-file | Go/Golang write log to file - Stack Overflow
+https://gobyexample.com/non-blocking-channel-operations | Go by Example: Non-Blocking Channel Operations
+http://wendal.net/2013/0116.html | Golang的坑之文件覆写
+https://www.linuxquestions.org/questions/linux-general-1/is-there-an-ifconfig-dhcp-command-540793/ | is there an "ifconfig dhcp" command ?
+http://blog.csdn.net/zpf336/article/details/50825847 | Ubuntu 中挂载其它NFS服务器的文件系统 - 三丰的专栏 - CSDN博客
+
+https://stackoverflow.com/questions/27676707/marshal-nested-structs-into-json | go - Marshal nested structs into JSON - Stack Overflow
+https://stackoverflow.com/questions/21268000/unmarshaling-nested-json-objects-in-golang | go - Unmarshaling nested JSON objects in Golang - Stack Overflow
+http://cizixs.com/2016/12/19/golang-json-guide | Go 语言 JSON 简介 – Cizixs Writes Here
+http://xiaorui.cc/2016/03/11/%E5%85%B3%E4%BA%8Egolang-struct-interface%E7%9A%84%E7%90%86%E8%A7%A3%E4%BD%BF%E7%94%A8/ | 关于golang struct interface的理解使用 | 峰云就她了
+https://godoc.org/encoding/json#NewDecoder | json - GoDoc
+https://stackoverflow.com/questions/3356011/whats-gos-equivalent-of-argv0 | What's Go's equivalent of argv[0]? - Stack Overflow
+http://blog.csdn.net/chenbaoke/article/details/39932845 | golang 中fmt用法 - CSDN博客
+
+https://www.guokr.com/post/453156/ | 浅谈为何没有三元数 | 数学午餐会小组 | 果壳网 科技有意思
+http://xstarcd.github.io/wiki/shell/exec_redirect.html | linux exec与重定向
+http://blog.csdn.net/wxgiter/article/details/6935889 | emacs改变文件编码 - CSDN博客
+http://blog.csdn.net/sanwu2010/article/details/23994977 | windows下Emacs中文乱码解决办法 - CSDN博客
+http://www.ruanyifeng.com/blog/2017/06/tcp-protocol.html | TCP 协议简介 - 阮一峰的网络日志
+https://git-scm.com/blog | Git - Reset Demystified
+http://liuweiqiang.win/%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE/2016/09/16/Bonjour%E5%8D%8F%E8%AE%AE%E5%88%86%E6%9E%90.html | Bonjour协议分析
+
+https://stackoverflow.com/questions/15981960/how-do-i-issue-an-http-get-from-excel-vba-for-mac-2011 | How do I issue an HTTP GET from Excel VBA for Mac 2011 - Stack Overflow
+http://fsjoy.blog.51cto.com/318484/245465 | Git学习教程（七） Git差异比对 - 李骥平 - 51CTO技术博客
+
+https://git-scm.com/book/gr/v2/Git-Tools-Credential-Storage | Git - Credential Storage
+
+https://www.atlassian.com/git/tutorials/resetting-checking-out-and-reverting | Reset, Checkout, and Revert | Atlassian Git Tutorial
+http://jasonrudolph.com/blog/2009/02/25/git-tip-how-to-merge-specific-files-from-another-branch/ | Git tip: How to "merge" specific files from another branch - jasonrudolph.com
+
+https://github.com/robbyrussell/oh-my-zsh/issues/4179 | oh-my-zsh is constantly hanging · Issue #4179 · robbyrussell/oh-my-zsh · GitHub
+https://www.gnu.org/philosophy/free-sw.en.html | What is free software? - GNU Project - Free Software Foundation
+
+https://coolshell.cn/articles/18024.html | API设计原则 | | 酷 壳 - CoolShell
+
+https://emacs.stackexchange.com/questions/24031/how-to-display-a-help-buffer-window-full-frame-size-not-full-screen | How to display a help buffer/window full frame size (not full screen) - Emacs Stack Exchange
+
+https://www.coindesk.com/information/how-bitcoin-mining-works/ | How bitcoin mining works - CoinDesk
+
+https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm | Architectural Styles and the Design of Network-based Software Architectures
+https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm | Fielding Dissertation: CHAPTER 5: Representational State Transfer (REST)
+http://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven | REST APIs must be hypertext-driven » Untangled
+https://godoc.org/github.com/pkg/sftp#File | sftp - GoDoc
+
+https://github.com/magnars/multiple-cursors.el | magnars/multiple-cursors.el: Multiple cursors for emacs.
+
+http://planet.emacsen.org/ | Planet Emacsen
+http://steve-yegge.blogspot.sg/2008/01/emergency-elisp.html | Stevey's Blog Rants: Emergency Elisp
+
+http://www.zeroconf.org/zeroconfandupnp.html | How does Zeroconf compare with Viiv/DLNA/DHWG/UPnP?
+https://en.wikipedia.org/wiki/Zero-configuration_networking | Zero-configuration networking - Wikipedia
+http://jaredrobinson.com/blog/upnp-ssdp-mdns-llmnr-etc-on-the-home-network/ | UPnP, SSDP, mDNS, LLMNR, etc. on the home network – jaredrobinson.com
+https://zhuanlan.zhihu.com/p/25933039?utm_source=tuicool&utm_medium=referral | 分布式事务？No, 最终一致性 - 知乎专栏
+
+https://sarabander.github.io/sicp/html/3_002e5.xhtml#g_t3_002e5_002e5 | Structure and Interpretation of Computer Programs, 2e: 3.5
+
+http://www.cnblogs.com/robertzml/archive/2010/03/03/1675870.html | 学习Emacs系列教程（八）：查找替换 - 下下签 - 博客园
+http://www.cnblogs.com/myitm/archive/2012/07/05/2577416.html | shell编程——if语句 if -z -n -f -eq -ne -lt - 心随灵动 - 博客园
+https://www.google.com/search?newwindow=1&q=vim+open+another+file&oq=vim+open&gs_l=psy-ab.3.1.0l4.481326.483150.0.485489.12.10.2.0.0.0.203.990.5j3j1.9.0....0...1.1.64.psy-ab..1.11.991._0Q2tDYmipk | vim open another file - Google 搜索
+https://stackoverflow.com/questions/53664/how-to-effectively-work-with-multiple-files-in-vim | vi - How to effectively work with multiple files in Vim? - Stack Overflow
+https://www.gnu.org/software/emacs/manual/html_node/emacs/Case.html | Case - GNU Emacs Manual
+
+https://en.wikipedia.org/wiki/Two%27s_complement | Two's complement - Wikipedia
+http://www.ele.uri.edu/courses/ele447/proj_pages/divid/twos.html | Two's Complement Represenation
+
+http://coolshell.cn/articles/9104.html | sed 简明教程 | | 酷 壳 - CoolShell
+https://unix.stackexchange.com/questions/105747/grep-lines-but-let-the-first-line-through | shell - Grep lines but let the first line through - Unix & Linux Stack Exchange
+
+https://stackoverflow.com/questions/744672/unable-to-hide-welcome-screen-in-emacs | Unable to hide welcome screen in Emacs - Stack Overflow
+
+http://gashero.yeax.com/?p=30 | 惊帆之静默 » Blog Archive » Stackless Python并发式编程介绍[已校对版]
+
+https://www.thebalance.com/g00/opportunity-cost-definition-393313?i10c.referrer=https%3A%2F%2Fwww.google.com%2F | Definitions and Examples of Opportunity Cost
+https://www.inc.com/encyclopedia/opportunity-cost.html | Opportunity Cost - Encyclopedia - Business Terms | Inc.com
+http://www.investopedia.com/terms/o/opportunitycost.asp | Opportunity Cost
+http://www.linuxfly.org/post/686/ | [转]Dash与Bash的语法区别 - linuxの飘扬 - Power by www.linuxfly.org
+https://stackoverflow.com/questions/5725296/difference-between-sh-and-bash | shell - Difference between sh and bash - Stack Overflow
+
+https://github.com/google/grumpy | GitHub - google/grumpy: Grumpy is a Python to Go source code transcompiler and runtime.
+https://github.com/Unknwon/the-way-to-go_ZH_CN/blob/master/eBook/15.1.md | the-way-to-go_ZH_CN/15.1.md at master · Unknwon/the-way-to-go_ZH_CN · GitHub
+https://smartystreets.com/blog/2015/02/go-testing-part-1-vanillla | Testing in Go by example: Part 1 - https://smartystreets.com/
+https://www.golang-book.com/books/intro/12 | Testing — An Introduction to Programming in Go | Go Resources
+
+https://devblogs.nvidia.com/parallelforall/learn-gpu-programming-free-on-demand-gpu-training/ | Learn GPU Programming in Your Browser with NVIDIA Hands-On Labs
+http://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html#axzz4atgDRVPb | Programming Guide :: CUDA Toolkit Documentation
+http://coolshell.cn/articles/10910.html | 分布式系统的事务处理 | | 酷 壳 - CoolShell
+http://tuhdo.github.io/helm-intro.html | A Package in a league of its own: <code>Helm</code>
+https://tuhdo.github.io/c-ide.html | C/C++ Development Environment for Emacs
+https://chamibuddhika.wordpress.com/2012/03/21/ssh-tunnelling-explained/ | SSH Tunneling Explained | Source Open
+http://blog.trackets.com/2014/05/17/ssh-tunnel-local-and-remote-port-forwarding-explained-with-examples.html | SSH Tunnel - Local and Remote Port Forwarding Explained With Examples - Trackets Blog
+https://www.emacswiki.org/emacs/EmacsCodeBrowser | EmacsWiki: Emacs Code Browser
+https://stackoverflow.com/questions/2079095/how-to-modularize-an-emacs-configuration | How to modularize an emacs configuration? - Stack Overflow
+http://blog.binchen.org/posts/emacs-is-easy-if-you-read-code.html | Emacs is easy if you read code | Chen's blog
+http://blog.ezyang.com/2012/11/extremist-programming/ | Extremist Programming : Inside 214-1E
+https://kafka.apache.org/intro.html | Apache Kafka
+http://coolshell.cn/articles/1547.html | 使用Flex Bison 和LLVM编写自己的编译器 | | 酷 壳 - CoolShell
+http://gnuu.org/2009/09/18/writing-your-own-toy-compiler/ | Writing Your Own Toy Compiler Using Flex, Bison and LLVM (gnuu.org)
+http://www.cnblogs.com/hdk1993/p/4922801.html | 编译原理之lex,yacc学习 - 程序员修练之路 - 博客园
+
+http://www.elearnenglishlanguage.com/blog/english-mistakes/eg-vs-ie/ | e.g. vs i.e. | e Learn English Language
+https://gist.github.com/avesanen/e3ae2235838d888d2ace | go.crypto/ssh example with multiple connections · GitHub
+https://stackoverflow.com/questions/16325449/how-to-send-a-command-to-all-panes-in-tmux | How to send a command to all panes in tmux? - Stack Overflow
+http://blog.ralch.com/tutorial/golang-ssh-connection/ | SSH Client connection in Golang · Software adventures and thoughts
+https://tools.ietf.org/html/rfc4251 | RFC 4251 - The Secure Shell (SSH) Protocol Architecture
+https://tools.ietf.org/html/rfc4252 | RFC 4252 - The Secure Shell (SSH) Authentication Protocol
+https://tools.ietf.org/html/rfc4253 | RFC 4253 - The Secure Shell (SSH) Transport Layer Protocol
+https://tools.ietf.org/html/rfc4254 | RFC 4254 - The Secure Shell (SSH) Connection Protocol
+https://gist.github.com/andreyvit/2921703 | tmux cheatsheet · GitHub
+
+https://github.com/niccokunzmann/ecc/blob/master/ecc/eccrypt.py | ecc/eccrypt.py at master · niccokunzmann/ecc · GitHub
+https://www.gnu.org/software/emacs/manual/html_node/efaq/Replacing-highlighted-text.html | Replacing highlighted text - GNU Emacs FAQ
+https://www.gnu.org/software/emacs/manual/html_node/emacs/Using-Region.html | Using Region - GNU Emacs Manual
+https://github.com/hectane/go-nonblockingchan/blob/master/chan.go | go-nonblockingchan/chan.go at master · hectane/go-nonblockingchan · GitHub
+https://segmentfault.com/a/1190000006261218 | Go语言并发模型：像Unix Pipe那样使用channel - 赵帅虎 - SegmentFault
+https://github.com/antirez/redis | GitHub - antirez/redis: Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.
+https://blog.oyanglul.us/javascript/understand-prototype.html | 理解JavaScript的原型链和继承
+https://github.com/creeperyang/blog/issues/9 | 从__proto__和prototype来深入理解JS对象和原型链 · Issue #9 · creeperyang/blog · GitHub
+http://prog21.dadgum.com/218.html | Moving Beyond the OOP Obsession
+http://prog21.dadgum.com/93.html | Don't Distract New Programmers with OOP
+http://prog21.dadgum.com/156.html | OOP Isn't a Fundamental Particle of Computing
+https://lawlessguy.wordpress.com/2013/07/23/filling-a-slice-using-command-line-flags-in-go-golang/ | Filling a Slice Using Command-line Flags in Go (Golang) | Jim Lawless' Blog
+https://zh.wikipedia.org/wiki/Paxos%E7%AE%97%E6%B3%95 | Paxos算法 - 维基百科，自由的百科全书
+http://blog.csdn.net/russell_tao/article/details/7244530 | paxos分布式一致性算法--讲述诸葛亮的反穿越 - 陶辉的专栏 - 博客频道 - CSDN.NET
+https://docs.docker.com/engine/swarm/networking/#attach-a-service-to-an-overlay-network | Attach services to an overlay network - Docker Documentation
+https://github.com/moby/moby | GitHub - moby/moby: Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+https://github.com/JosephSalisbury/python-bittorrent | GitHub - JosephSalisbury/python-bittorrent: A simple, clean, and efficient BitTorrent library, written entirely in Python.
+http://www.kristenwidman.com/blog/71/how-to-write-a-bittorrent-client-part-2/ | How to Write a Bittorrent Client – Part 2 | kristenwidman
+http://www.kristenwidman.com/blog/33/how-to-write-a-bittorrent-client-part-1/ | How to Write a Bittorrent Client, Part 1 | kristenwidman
+https://github.com/moby/moby/issues/30321 | Zero-downtime deployments with rolling upgrades · Issue #30321 · moby/moby · GitHub
+http://coolshell.cn/articles/1846.html | MySQL性能优化的最佳20+条经验 | | 酷 壳 - CoolShell
