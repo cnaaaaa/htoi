@@ -1,5 +1,10 @@
-https://blog.csdn.net/hguisu/article/details/38638183 | 使用 libevent 和 libev 提高网络应用性能——I/O模型演进变化史 - CSDN博客
+http://www.cnblogs.com/charlesblc/p/6242479.html | epoll的内部实现 & 百万级别句柄监听 & lt和et模式非常好的解释 - blcblc - 博客园
+http://oenhan.com/epoll-linux-kernel | epoll的linux内核工作机制 | OenHan
+http://www.pagefault.info/?p=264 | linux kernel中epoll的设计和实现 | pagefault
 https://blog.csdn.net/hguisu/article/details/7453390 | socket阻塞与非阻塞，同步与异步、I/O模型 - CSDN博客
+https://blog.csdn.net/hguisu/article/details/38638183 | 使用 libevent 和 libev 提高网络应用性能——I/O模型演进变化史 - CSDN博客
+https://blog.csdn.net/zouxinfox/article/details/3560891 | 一个Linux下C线程池的实现 - CSDN博客
+
 https://blog.csdn.net/Wangdada111/article/details/54236732 | 一看就懂的数据库范式介绍（1NF—5NF) - CSDN博客
 https://blog.csdn.net/younger_china/article/details/16829687 | [内存管理]linux X86_64处理器的内存布局图 - CSDN博客
 https://blog.csdn.net/lyh__521/article/details/50137057 | 64位系统下进程的内存布局 - CSDN博客
@@ -11,7 +16,6 @@ https://blog.csdn.net/zhouwei1221q/article/details/47955109 | linux系统进程�
 https://blog.csdn.net/mumumuwudi/article/details/47141291 | LINUX程序(进程)在内存中的布局 - CSDN博客
 https://www.cnblogs.com/charlesblc/p/6415916.html | Linux进程的内存布局 - blcblc - 博客园
 http://linuxtools-rst.readthedocs.io/zh_CN/latest/tool/free.html | 9. free 查询可用内存 — Linux Tools Quick Tutorial
-http://www.cnblogs.com/charlesblc/p/6242479.html | epoll的内部实现 & 百万级别句柄监听 & lt和et模式非常好的解释 - blcblc - 博客园
 https://www.ibm.com/developerworks/cn/linux/kernel/l-chain/index.html | 深入分析 Linux 内核链表
 https://blog.csdn.net/zhanglei4214/article/details/6767288 | linux内核hlist分析 - CSDN博客
 https://blog.csdn.net/vonzhoufz/article/details/36043223 | Linux内核hlist数据结构分析 - CSDN博客
