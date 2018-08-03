@@ -13,6 +13,7 @@
 (global-set-key (kbd "C-c <right>") 'windmove-right)
 
 (delete-selection-mode 1)
+(add-hook 'emacs-startup-hook 'toggle-frame-maximized)
 
 (add-to-list 'load-path "~/.emacs.d/3rd")
 (add-to-list 'custom-theme-load-path "~/.emacs.d/themes")
